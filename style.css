@@ -46,7 +46,10 @@
 .logo a i{font-size: 33px;}.logo a p{font-size: 19px;}.play-millions .col-md-12{padding-left: 10px;}
 .ready{padding:130px 0 130px;background-position:center;}.footer-details ul {flex-direction: column;}
 .footer-details ul li {display: block;margin-bottom: 1px;}.why-spotify{padding: 60px 60px 60px;}
-.c-card{padding:120px 0 120px;}.play-content h1{font-size: 40px !important;letter-spacing: 1px !important;}.play-content{padding-left: 15px;}.button{font-size: 12px !important;}.hamburger{position: relative;top: 7px !important;}.footer-details{display: none;}.footer-icons ul li a{padding: 13px;border-radius: 10px;text-align: cent;}.footer-navs{padding-top: 50px;}.lang-year{padding-top:40px;}}
+.c-card{padding:120px 0 120px;}.play-content h1{font-size: 40px !important;letter-spacing: 1px !important;}
+.play-content{padding-left: 15px;}.button{font-size: 12px !important;}.hamburger{position: relative;top: 7px !important;}
+.footer-details{display: none;}.footer-icons ul li a{padding: 13px;border-radius: 10px;text-align: cent;}
+.footer-navs{padding-top: 50px;}.lang-year{padding-top:40px;}}
 
  
 
