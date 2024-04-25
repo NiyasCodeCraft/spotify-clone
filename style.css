@@ -5,7 +5,7 @@
 .sidenav a {padding: 0 8px 6px 40px;color: white;display: block;transition: 0.3s;font-weight: 600;}
 #mySidenav a:hover {color:#1ED760;}
 .sidenav .closebtn {position: absolute;top: 15px;right:30px;font-size: 36px;margin-left: 50px;text-decoration: none;}
-.play-millions{background-color:#D72FB1;background-image: url('media/playback.png');background-position: center 10%;font-family: 'spotify-circular', Helvetica, Arial, sans-serif;padding-top: 97px;}
+.play-millions{background-color:#D72FB1;background-image: url('playback.png');background-position: center 10%;font-family: 'spotify-circular', Helvetica, Arial, sans-serif;padding-top: 97px;}
 .play-millions .play-content h1{letter-spacing:-3px;word-spacing: -2px;padding-bottom: 40px;}
 .button{padding: 15px 30px;border-radius: 60px;transition: 1s linear;}
 .why-spotify{padding: 76px 64px 94px;}
